@@ -46,3 +46,8 @@ As part of my IoT internship at *CODTECH IT Solutions, I developed an **Air Qual
 
 ✅ Successfully tested on Wokwi Simulator  
 📟 Serial Monitor displays: Temperature, Humidity, Gas Level
+
+
+#OUTPUT
+
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/bd76484f-f840-41b4-888b-db6783c9d247" />
